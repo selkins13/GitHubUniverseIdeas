@@ -1,2 +1,2 @@
-# GitHubUniverseIdeas
-Storing ideas for possible GitHub Universe Presentation Submissions
+# Presentation Ideas
+Storing ideas for possible Presentation Submissions
